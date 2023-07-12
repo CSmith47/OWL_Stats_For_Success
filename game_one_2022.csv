@@ -1,0 +1,331 @@
+round_start_time,round_end_time,stage,match_id,game_number,match_winner,map_winner,map_loser,map_name,first_victor
+05/05/22 19:10,05/05/22 19:16,2022: Kickoff Clash: Qualifiers,38971,1,Los Angeles Gladiators,Los Angeles Gladiators,New York Excelsior,Lijiang Tower,1
+05/05/22 21:01,05/05/22 21:05,2022: Kickoff Clash: Qualifiers,38972,1,San Francisco Shock,San Francisco Shock,Vegas Eternal,Ilios,1
+05/05/22 22:23,05/05/22 22:28,2022: Kickoff Clash: Qualifiers,38973,1,Atlanta Reign,Florida Mayhem,Atlanta Reign,Lijiang Tower,0
+05/06/22 19:06,05/06/22 19:10,2022: Kickoff Clash: Qualifiers,38975,1,San Francisco Shock,San Francisco Shock,London Spitfire,Lijiang Tower,1
+05/06/22 20:25,05/06/22 20:31,2022: Kickoff Clash: Qualifiers,38974,1,Boston Uprising,Boston Uprising,Vancouver Titans,Ilios,1
+05/06/22 23:05,05/06/22 23:10,2022: Kickoff Clash: Qualifiers,38976,1,Houston Outlaws,Houston Outlaws,Dallas Fuel,Oasis,1
+05/07/22 19:06,05/07/22 19:10,2022: Kickoff Clash: Qualifiers,38977,1,Washington Justice,Toronto Defiant,Washington Justice,Ilios,0
+05/07/22 20:33,05/07/22 20:37,2022: Kickoff Clash: Qualifiers,38978,1,Atlanta Reign,Atlanta Reign,New York Excelsior,Oasis,1
+05/07/22 21:50,05/07/22 21:55,2022: Kickoff Clash: Qualifiers,38979,1,Los Angeles Gladiators,Los Angeles Gladiators,Boston Uprising,Ilios,1
+05/08/22 19:06,05/08/22 19:10,2022: Kickoff Clash: Qualifiers,38980,1,London Spitfire,London Spitfire,Vancouver Titans,Oasis,1
+05/08/22 20:30,05/08/22 20:34,2022: Kickoff Clash: Qualifiers,38981,1,Florida Mayhem,Florida Mayhem,Vegas Eternal,Oasis,1
+05/08/22 22:41,05/08/22 22:45,2022: Kickoff Clash: Qualifiers,38982,1,Dallas Fuel,Dallas Fuel,Washington Justice,Lijiang Tower,1
+05/08/22 23:49,05/08/22 23:53,2022: Kickoff Clash: Qualifiers,38983,1,Toronto Defiant,Toronto Defiant,Houston Outlaws,Lijiang Tower,1
+05/13/22 19:09,05/13/22 19:15,2022: Kickoff Clash: Qualifiers,38984,1,Florida Mayhem,Florida Mayhem,Vancouver Titans,Colosseo,1
+05/13/22 20:20,05/13/22 20:27,2022: Kickoff Clash: Qualifiers,38985,1,San Francisco Shock,San Francisco Shock,Houston Outlaws,New Queen Street,1
+05/13/22 21:57,05/13/22 22:06,2022: Kickoff Clash: Qualifiers,38986,1,Washington Justice,Washington Justice,Atlanta Reign,Colosseo,1
+05/14/22 19:05,05/14/22 19:14,2022: Kickoff Clash: Qualifiers,38987,1,London Spitfire,Boston Uprising,London Spitfire,Colosseo,0
+05/14/22 20:53,05/14/22 21:01,2022: Kickoff Clash: Qualifiers,38988,1,Dallas Fuel,Los Angeles Gladiators,Dallas Fuel,Colosseo,0
+05/14/22 22:52,05/14/22 23:00,2022: Kickoff Clash: Qualifiers,38989,1,New York Excelsior,Vancouver Titans,New York Excelsior,New Queen Street,0
+05/15/22 19:05,05/15/22 19:13,2022: Kickoff Clash: Qualifiers,38990,1,Houston Outlaws,Houston Outlaws,Florida Mayhem,Colosseo,1
+05/15/22 20:56,05/15/22 21:05,2022: Kickoff Clash: Qualifiers,38991,1,San Francisco Shock,San Francisco Shock,New York Excelsior,New Queen Street,1
+05/15/22 22:32,05/15/22 22:41,2022: Kickoff Clash: Qualifiers,38992,1,Toronto Defiant,Toronto Defiant,Vegas Eternal,New Queen Street,1
+05/20/22 10:05,05/20/22 10:14,2022: Kickoff Clash: Qualifiers,39011,1,Seoul Infernal,Seoul Infernal,Shanghai Dragons,New Queen Street,1
+05/20/22 11:29,05/20/22 11:38,2022: Kickoff Clash: Qualifiers,39016,1,Guangzhou Charge,Guangzhou Charge,Los Angeles Valiant,Colosseo,1
+05/20/22 13:02,05/20/22 13:10,2022: Kickoff Clash: Qualifiers,39017,1,Hangzhou Spark,Hangzhou Spark,Seoul Dynasty,New Queen Street,1
+05/20/22 19:07,05/20/22 19:12,2022: Kickoff Clash: Qualifiers,38993,1,Washington Justice,Washington Justice,Vegas Eternal,Lijiang Tower,1
+05/20/22 20:51,05/20/22 21:11,2022: Kickoff Clash: Qualifiers,38994,1,Florida Mayhem,Florida Mayhem,New York Excelsior,Ilios,1
+05/20/22 22:36,05/20/22 22:39,2022: Kickoff Clash: Qualifiers,38995,1,Dallas Fuel,Dallas Fuel,Toronto Defiant,Oasis,1
+05/21/22 10:05,05/21/22 10:14,2022: Kickoff Clash: Qualifiers,39012,1,Chengdu Hunters,Chengdu Hunters,Guangzhou Charge,Colosseo,1
+05/21/22 11:17,05/21/22 11:25,2022: Kickoff Clash: Qualifiers,39027,1,Shanghai Dragons,Hangzhou Spark,Shanghai Dragons,Colosseo,0
+05/21/22 13:19,05/21/22 13:28,2022: Kickoff Clash: Qualifiers,39025,1,Seoul Dynasty,Los Angeles Valiant,Seoul Dynasty,Colosseo,0
+05/21/22 19:07,05/21/22 19:10,2022: Kickoff Clash: Qualifiers,38996,1,Houston Outlaws,Houston Outlaws,London Spitfire,Ilios,1
+05/21/22 20:30,05/21/22 20:33,2022: Kickoff Clash: Qualifiers,38997,1,San Francisco Shock,Los Angeles Gladiators,San Francisco Shock,Oasis,0
+05/21/22 22:35,05/21/22 22:40,2022: Kickoff Clash: Qualifiers,38998,1,Toronto Defiant,Boston Uprising,Toronto Defiant,Lijiang Tower,0
+05/22/22 10:05,05/22/22 10:10,2022: Kickoff Clash: Qualifiers,39029,1,Seoul Infernal,Seoul Infernal,Guangzhou Charge,Oasis,1
+05/22/22 11:28,05/22/22 11:35,2022: Kickoff Clash: Qualifiers,39028,1,Seoul Dynasty,Seoul Dynasty,Chengdu Hunters,Ilios,1
+05/22/22 12:57,05/22/22 13:02,2022: Kickoff Clash: Qualifiers,39015,1,Hangzhou Spark,Los Angeles Valiant,Hangzhou Spark,Lijiang Tower,0
+05/22/22 19:07,05/22/22 19:11,2022: Kickoff Clash: Qualifiers,38999,1,Atlanta Reign,Atlanta Reign,Vancouver Titans,Ilios,1
+05/22/22 20:29,05/22/22 20:34,2022: Kickoff Clash: Qualifiers,39000,1,Dallas Fuel,Dallas Fuel,Vegas Eternal,Ilios,1
+05/22/22 21:45,05/22/22 21:49,2022: Kickoff Clash: Qualifiers,39001,1,Boston Uprising,Boston Uprising,Washington Justice,Oasis,1
+05/26/22 10:06,05/26/22 10:11,2022: Kickoff Clash: Qualifiers,39014,1,Seoul Dynasty,Seoul Dynasty,Seoul Infernal,Lijiang Tower,1
+05/26/22 11:20,05/26/22 11:26,2022: Kickoff Clash: Qualifiers,39026,1,Hangzhou Spark,Chengdu Hunters,Hangzhou Spark,Oasis,0
+05/26/22 13:04,05/26/22 13:06,2022: Kickoff Clash: Qualifiers,39030,1,Shanghai Dragons,Guangzhou Charge,Shanghai Dragons,Ilios,0
+05/27/22 10:05,05/27/22 10:14,2022: Kickoff Clash: Qualifiers,39022,1,Chengdu Hunters,Chengdu Hunters,Seoul Infernal,Colosseo,1
+05/27/22 11:45,05/27/22 11:50,2022: Kickoff Clash: Qualifiers,39019,1,Seoul Dynasty,Seoul Dynasty,Guangzhou Charge,Oasis,1
+05/27/22 13:09,05/27/22 13:13,2022: Kickoff Clash: Qualifiers,39020,1,Shanghai Dragons,Shanghai Dragons,Los Angeles Valiant,Oasis,1
+05/27/22 19:07,05/27/22 19:15,2022: Kickoff Clash: Qualifiers,39002,1,Los Angeles Gladiators,London Spitfire,Los Angeles Gladiators,New Queen Street,0
+05/27/22 20:49,05/27/22 20:58,2022: Kickoff Clash: Qualifiers,39003,1,Toronto Defiant,Toronto Defiant,New York Excelsior,Colosseo,1
+05/27/22 22:51,05/27/22 23:00,2022: Kickoff Clash: Qualifiers,39004,1,San Francisco Shock,San Francisco Shock,Vancouver Titans,Colosseo,1
+05/28/22 10:05,05/28/22 10:11,2022: Kickoff Clash: Qualifiers,39021,1,Hangzhou Spark,Hangzhou Spark,Guangzhou Charge,Lijiang Tower,1
+05/28/22 11:27,05/28/22 11:29,2022: Kickoff Clash: Qualifiers,39013,1,Shanghai Dragons,Shanghai Dragons,Chengdu Hunters,Lijiang Tower,1
+05/28/22 12:59,05/28/22 13:03,2022: Kickoff Clash: Qualifiers,39031,1,Seoul Infernal,Los Angeles Valiant,Seoul Infernal,Ilios,0
+05/28/22 19:07,05/28/22 19:15,2022: Kickoff Clash: Qualifiers,39005,1,London Spitfire,London Spitfire,Atlanta Reign,New Queen Street,1
+05/28/22 21:03,05/28/22 21:13,2022: Kickoff Clash: Qualifiers,39006,1,Houston Outlaws,Vegas Eternal,Houston Outlaws,Colosseo,0
+05/28/22 23:00,05/28/22 23:08,2022: Kickoff Clash: Qualifiers,39007,1,Florida Mayhem,Washington Justice,Florida Mayhem,New Queen Street,0
+05/29/22 10:09,05/29/22 10:13,2022: Kickoff Clash: Qualifiers,39024,1,Shanghai Dragons,Seoul Dynasty,Shanghai Dragons,Oasis,0
+05/29/22 11:48,05/29/22 11:52,2022: Kickoff Clash: Qualifiers,39018,1,Los Angeles Valiant,Los Angeles Valiant,Chengdu Hunters,Lijiang Tower,1
+05/29/22 13:23,05/29/22 13:28,2022: Kickoff Clash: Qualifiers,39023,1,Hangzhou Spark,Seoul Infernal,Hangzhou Spark,Ilios,0
+05/29/22 19:06,05/29/22 19:14,2022: Kickoff Clash: Qualifiers,39008,1,Dallas Fuel,Dallas Fuel,Boston Uprising,New Queen Street,1
+05/29/22 20:23,05/29/22 20:33,2022: Kickoff Clash: Qualifiers,39009,1,Los Angeles Gladiators,Los Angeles Gladiators,Atlanta Reign,New Queen Street,1
+06/02/22 19:12,06/02/22 19:17,2022: Kickoff Clash: Tournament,39041,1,San Francisco Shock,Washington Justice,San Francisco Shock,Ilios,0
+06/02/22 21:27,06/02/22 21:30,2022: Kickoff Clash: Tournament,39042,1,Atlanta Reign,Florida Mayhem,Atlanta Reign,Ilios,0
+06/02/22 23:18,06/02/22 23:23,2022: Kickoff Clash: Tournament,39043,1,Los Angeles Gladiators,Los Angeles Gladiators,Houston Outlaws,Lijiang Tower,1
+06/03/22 00:49,06/03/22 00:54,2022: Kickoff Clash: Tournament,39044,1,Dallas Fuel,Dallas Fuel,Toronto Defiant,Lijiang Tower,1
+06/03/22 10:05,06/03/22 10:11,2022: Kickoff Clash: Tournament,39061,1,Seoul Infernal,Seoul Infernal,Hangzhou Spark,Oasis,1
+06/03/22 11:30,06/03/22 11:36,2022: Kickoff Clash: Tournament,39062,1,Shanghai Dragons,Shanghai Dragons,Seoul Dynasty,Oasis,1
+06/03/22 19:09,06/03/22 19:14,2022: Kickoff Clash: Tournament,39045,1,Atlanta Reign,Atlanta Reign,San Francisco Shock,Ilios,1
+06/03/22 20:46,06/03/22 20:49,2022: Kickoff Clash: Tournament,39053,1,Los Angeles Gladiators,Los Angeles Gladiators,Dallas Fuel,Lijiang Tower,1
+06/03/22 22:42,06/03/22 22:46,2022: Kickoff Clash: Tournament,39051,1,Florida Mayhem,Washington Justice,Florida Mayhem,Ilios,0
+06/04/22 00:41,06/04/22 00:46,2022: Kickoff Clash: Tournament,39054,1,Houston Outlaws,Toronto Defiant,Houston Outlaws,Lijiang Tower,0
+06/04/22 10:07,06/04/22 10:12,2022: Kickoff Clash: Tournament,39066,1,Seoul Dynasty,Seoul Dynasty,Hangzhou Spark,Ilios,1
+06/04/22 11:30,06/04/22 11:33,2022: Kickoff Clash: Tournament,39063,1,Seoul Infernal,Seoul Infernal,Shanghai Dragons,Lijiang Tower,1
+06/04/22 19:11,06/04/22 19:15,2022: Kickoff Clash: Tournament,39052,1,Dallas Fuel,Dallas Fuel,Florida Mayhem,Lijiang Tower,1
+06/04/22 20:49,06/04/22 20:54,2022: Kickoff Clash: Tournament,39049,1,San Francisco Shock,Houston Outlaws,San Francisco Shock,Ilios,0
+06/04/22 22:25,06/04/22 22:30,2022: Kickoff Clash: Tournament,39046,1,Los Angeles Gladiators,Los Angeles Gladiators,Atlanta Reign,Ilios,1
+06/04/22 23:58,06/05/22 00:01,2022: Kickoff Clash: Tournament,39050,1,Dallas Fuel,Dallas Fuel,San Francisco Shock,Oasis,1
+06/05/22 10:10,06/05/22 10:15,2022: Kickoff Clash: Tournament,39065,1,Seoul Dynasty,Seoul Dynasty,Shanghai Dragons,Oasis,1
+06/05/22 12:32,06/05/22 12:37,2022: Kickoff Clash: Tournament,39064,1,Seoul Dynasty,Seoul Dynasty,Seoul Infernal,Lijiang Tower,1
+06/05/22 19:09,06/05/22 19:15,2022: Kickoff Clash: Tournament,39048,1,Dallas Fuel,Atlanta Reign,Dallas Fuel,Ilios,0
+06/05/22 21:18,06/05/22 21:21,2022: Kickoff Clash: Tournament,39047,1,Los Angeles Gladiators,Los Angeles Gladiators,Dallas Fuel,Ilios,1
+06/16/22 19:08,06/16/22 19:13,2022: Midseason Madness: Qualifiers,39161,1,London Spitfire,London Spitfire,Florida Mayhem,Ilios,1
+06/16/22 20:56,06/16/22 21:01,2022: Midseason Madness: Qualifiers,39162,1,San Francisco Shock,San Francisco Shock,Dallas Fuel,Lijiang Tower,1
+06/16/22 22:19,06/16/22 22:23,2022: Midseason Madness: Qualifiers,39163,1,Washington Justice,New York Excelsior,Washington Justice,Ilios,0
+06/17/22 19:07,06/17/22 19:11,2022: Midseason Madness: Qualifiers,39164,1,London Spitfire,London Spitfire,Toronto Defiant,Lijiang Tower,1
+06/17/22 20:46,06/17/22 20:50,2022: Midseason Madness: Qualifiers,39165,1,Atlanta Reign,Atlanta Reign,Boston Uprising,Oasis,1
+06/17/22 22:25,06/17/22 22:29,2022: Midseason Madness: Qualifiers,39166,1,Los Angeles Gladiators,Los Angeles Gladiators,Vancouver Titans,Lijiang Tower,1
+06/18/22 19:07,06/18/22 19:12,2022: Midseason Madness: Qualifiers,39167,1,Houston Outlaws,Houston Outlaws,Washington Justice,Oasis,1
+06/18/22 20:57,06/18/22 21:02,2022: Midseason Madness: Qualifiers,39168,1,Los Angeles Gladiators,Los Angeles Gladiators,Vegas Eternal,Oasis,1
+06/18/22 22:30,06/18/22 22:36,2022: Midseason Madness: Qualifiers,39169,1,Atlanta Reign,Atlanta Reign,Dallas Fuel,Ilios,1
+06/19/22 19:05,06/19/22 19:09,2022: Midseason Madness: Qualifiers,39170,1,Florida Mayhem,Florida Mayhem,Toronto Defiant,Oasis,1
+06/19/22 20:48,06/19/22 20:52,2022: Midseason Madness: Qualifiers,39171,1,San Francisco Shock,San Francisco Shock,Boston Uprising,Ilios,1
+06/19/22 21:59,06/19/22 22:03,2022: Midseason Madness: Qualifiers,39172,1,Vegas Eternal,Vegas Eternal,New York Excelsior,Lijiang Tower,1
+06/20/22 00:00,06/20/22 00:05,2022: Midseason Madness: Qualifiers,39173,1,Houston Outlaws,Houston Outlaws,Vancouver Titans,Ilios,1
+06/24/22 10:05,06/24/22 10:08,2022: Midseason Madness: Qualifiers,39010,1,Los Angeles Valiant,Seoul Infernal,Los Angeles Valiant,Oasis,0
+06/24/22 12:11,06/24/22 12:15,2022: Midseason Madness: Qualifiers,39111,1,Seoul Dynasty,Seoul Dynasty,Chengdu Hunters,Ilios,1
+06/24/22 19:07,06/24/22 19:17,2022: Midseason Madness: Qualifiers,39174,1,London Spitfire,London Spitfire,New York Excelsior,Colosseo,1
+06/24/22 20:38,06/24/22 20:49,2022: Midseason Madness: Qualifiers,39175,1,Dallas Fuel,Dallas Fuel,Florida Mayhem,New Queen Street,1
+06/24/22 22:05,06/24/22 22:15,2022: Midseason Madness: Qualifiers,39176,1,Atlanta Reign,Vancouver Titans,Atlanta Reign,New Queen Street,0
+06/25/22 10:04,06/25/22 10:09,2022: Midseason Madness: Qualifiers,39112,1,Hangzhou Spark,Hangzhou Spark,Guangzhou Charge,Ilios,1
+06/25/22 11:19,06/25/22 11:23,2022: Midseason Madness: Qualifiers,39113,1,Seoul Dynasty,Seoul Dynasty,Shanghai Dragons,Lijiang Tower,1
+06/25/22 12:35,06/25/22 12:39,2022: Midseason Madness: Qualifiers,39114,1,Chengdu Hunters,Seoul Infernal,Chengdu Hunters,Lijiang Tower,0
+06/25/22 19:06,06/25/22 19:17,2022: Midseason Madness: Qualifiers,39177,1,Toronto Defiant,Washington Justice,Toronto Defiant,New Queen Street,0
+06/25/22 20:38,06/25/22 20:47,2022: Midseason Madness: Qualifiers,39178,1,San Francisco Shock,San Francisco Shock,Atlanta Reign,New Queen Street,1
+06/25/22 22:29,06/25/22 22:40,2022: Midseason Madness: Qualifiers,39179,1,Dallas Fuel,Dallas Fuel,Vancouver Titans,Colosseo,1
+06/26/22 10:05,06/26/22 10:09,2022: Midseason Madness: Qualifiers,39115,1,Los Angeles Valiant,Los Angeles Valiant,Guangzhou Charge,Oasis,1
+06/26/22 11:22,06/26/22 11:27,2022: Midseason Madness: Qualifiers,39116,1,Hangzhou Spark,Hangzhou Spark,Shanghai Dragons,Oasis,1
+06/26/22 19:07,06/26/22 19:17,2022: Midseason Madness: Qualifiers,39180,1,San Francisco Shock,Florida Mayhem,San Francisco Shock,Colosseo,0
+06/26/22 20:47,06/26/22 20:57,2022: Midseason Madness: Qualifiers,39181,1,Los Angeles Gladiators,Los Angeles Gladiators,Houston Outlaws,New Queen Street,1
+06/26/22 22:07,06/26/22 22:17,2022: Midseason Madness: Qualifiers,39182,1,Boston Uprising,Boston Uprising,Vegas Eternal,New Queen Street,1
+07/01/22 10:05,07/01/22 10:15,2022: Midseason Madness: Qualifiers,39117,1,Seoul Infernal,Seoul Infernal,Hangzhou Spark,Colosseo,1
+07/01/22 11:54,07/01/22 12:05,2022: Midseason Madness: Qualifiers,39118,1,Chengdu Hunters,Chengdu Hunters,Guangzhou Charge,New Queen Street,1
+07/01/22 19:06,07/01/22 19:11,2022: Midseason Madness: Qualifiers,39183,1,London Spitfire,London Spitfire,Vegas Eternal,Oasis,1
+07/01/22 20:24,07/01/22 20:29,2022: Midseason Madness: Qualifiers,39184,1,Houston Outlaws,Atlanta Reign,Houston Outlaws,Lijiang Tower,0
+07/01/22 22:56,07/01/22 23:00,2022: Midseason Madness: Qualifiers,39185,1,Los Angeles Gladiators,Toronto Defiant,Los Angeles Gladiators,Ilios,0
+07/02/22 10:06,07/02/22 10:17,2022: Midseason Madness: Qualifiers,39119,1,Seoul Dynasty,Seoul Dynasty,Guangzhou Charge,Colosseo,1
+07/02/22 11:18,07/02/22 11:30,2022: Midseason Madness: Qualifiers,39120,1,Chengdu Hunters,Chengdu Hunters,Los Angeles Valiant,New Queen Street,1
+07/02/22 12:39,07/02/22 12:50,2022: Midseason Madness: Qualifiers,39121,1,Shanghai Dragons,Shanghai Dragons,Seoul Infernal,Colosseo,1
+07/02/22 19:06,07/02/22 19:11,2022: Midseason Madness: Qualifiers,39186,1,San Francisco Shock,San Francisco Shock,Vancouver Titans,Oasis,1
+07/02/22 20:31,07/02/22 20:35,2022: Midseason Madness: Qualifiers,39187,1,Los Angeles Gladiators,Los Angeles Gladiators,Washington Justice,Lijiang Tower,1
+07/02/22 22:09,07/02/22 22:13,2022: Midseason Madness: Qualifiers,39188,1,Toronto Defiant,Vegas Eternal,Toronto Defiant,Ilios,0
+07/03/22 10:05,07/03/22 10:15,2022: Midseason Madness: Qualifiers,39122,1,Seoul Dynasty,Seoul Dynasty,Hangzhou Spark,New Queen Street,1
+07/03/22 11:21,07/03/22 11:28,2022: Midseason Madness: Qualifiers,39123,1,Shanghai Dragons,Shanghai Dragons,Los Angeles Valiant,Colosseo,1
+07/03/22 19:07,07/03/22 19:11,2022: Midseason Madness: Qualifiers,39189,1,London Spitfire,London Spitfire,Washington Justice,Oasis,1
+07/03/22 20:50,07/03/22 20:53,2022: Midseason Madness: Qualifiers,39190,1,Dallas Fuel,Dallas Fuel,New York Excelsior,Oasis,1
+07/03/22 22:53,07/03/22 22:58,2022: Midseason Madness: Qualifiers,39191,1,Florida Mayhem,Boston Uprising,Florida Mayhem,Lijiang Tower,0
+07/08/22 10:05,07/08/22 10:11,2022: Midseason Madness: Qualifiers,39124,1,Seoul Infernal,Guangzhou Charge,Seoul Infernal,Lijiang Tower,0
+07/08/22 11:40,07/08/22 11:43,2022: Midseason Madness: Qualifiers,39125,1,Shanghai Dragons,Shanghai Dragons,Chengdu Hunters,Ilios,1
+07/08/22 19:06,07/08/22 19:16,2022: Midseason Madness: Qualifiers,39192,1,Houston Outlaws,Houston Outlaws,New York Excelsior,New Queen Street,1
+07/08/22 21:08,07/08/22 21:18,2022: Midseason Madness: Qualifiers,39193,1,San Francisco Shock,San Francisco Shock,Toronto Defiant,Colosseo,1
+07/08/22 22:35,07/08/22 22:43,2022: Midseason Madness: Qualifiers,39194,1,Atlanta Reign,Atlanta Reign,Vegas Eternal,Colosseo,1
+07/09/22 10:06,07/09/22 10:10,2022: Midseason Madness: Qualifiers,39126,1,Seoul Dynasty,Seoul Dynasty,Los Angeles Valiant,Lijiang Tower,1
+07/09/22 11:28,07/09/22 11:34,2022: Midseason Madness: Qualifiers,39127,1,Hangzhou Spark,Hangzhou Spark,Chengdu Hunters,Oasis,1
+07/09/22 12:54,07/09/22 12:59,2022: Midseason Madness: Qualifiers,39128,1,Shanghai Dragons,Shanghai Dragons,Guangzhou Charge,Lijiang Tower,1
+07/09/22 19:07,07/09/22 19:18,2022: Midseason Madness: Qualifiers,39195,1,Washington Justice,Vancouver Titans,Washington Justice,New Queen Street,0
+07/09/22 20:56,07/09/22 21:07,2022: Midseason Madness: Qualifiers,39196,1,Houston Outlaws,Boston Uprising,Houston Outlaws,Colosseo,0
+07/09/22 22:56,07/09/22 23:06,2022: Midseason Madness: Qualifiers,39197,1,Los Angeles Gladiators,Los Angeles Gladiators,Florida Mayhem,New Queen Street,1
+07/10/22 10:08,07/10/22 10:12,2022: Midseason Madness: Qualifiers,39129,1,Seoul Infernal,Seoul Dynasty,Seoul Infernal,Oasis,0
+07/10/22 11:46,07/10/22 11:51,2022: Midseason Madness: Qualifiers,39130,1,Hangzhou Spark,Hangzhou Spark,Los Angeles Valiant,Ilios,1
+07/10/22 19:07,07/10/22 19:18,2022: Midseason Madness: Qualifiers,39198,1,Dallas Fuel,Dallas Fuel,London Spitfire,New Queen Street,1
+07/10/22 20:53,07/10/22 21:04,2022: Midseason Madness: Qualifiers,39199,1,Boston Uprising,Boston Uprising,New York Excelsior,New Queen Street,1
+07/18/22 23:07,07/18/22 23:10,2022: Midseason Madness: Tournament,39131,1,London Spitfire,London Spitfire,Atlanta Reign,Lijiang Tower,1
+07/19/22 01:06,07/19/22 01:09,2022: Midseason Madness: Tournament,39137,1,Houston Outlaws,Houston Outlaws,Florida Mayhem,Oasis,1
+07/19/22 02:58,07/19/22 03:04,2022: Midseason Madness: Tournament,39133,1,Shanghai Dragons,Shanghai Dragons,Toronto Defiant,Ilios,1
+07/19/22 04:35,07/19/22 04:40,2022: Midseason Madness: Tournament,39135,1,Hangzhou Spark,Hangzhou Spark,Seoul Infernal,Lijiang Tower,1
+07/19/22 23:08,07/19/22 23:13,2022: Midseason Madness: Tournament,39153,1,Los Angeles Gladiators,Los Angeles Gladiators,Houston Outlaws,Lijiang Tower,1
+07/20/22 01:05,07/20/22 01:10,2022: Midseason Madness: Tournament,39139,1,San Francisco Shock,London Spitfire,San Francisco Shock,Ilios,0
+07/20/22 03:10,07/20/22 03:13,2022: Midseason Madness: Tournament,39151,1,Shanghai Dragons,Shanghai Dragons,Dallas Fuel,Oasis,1
+07/20/22 04:36,07/20/22 04:41,2022: Midseason Madness: Tournament,39159,1,Hangzhou Spark,Hangzhou Spark,Seoul Dynasty,Ilios,1
+07/20/22 23:08,07/20/22 23:11,2022: Midseason Madness: Tournament,39146,1,Florida Mayhem,London Spitfire,Florida Mayhem,Lijiang Tower,0
+07/21/22 01:12,07/21/22 01:16,2022: Midseason Madness: Tournament,39155,1,Houston Outlaws,Houston Outlaws,Toronto Defiant,Oasis,1
+07/21/22 03:25,07/21/22 03:28,2022: Midseason Madness: Tournament,39150,1,Seoul Infernal,Seoul Infernal,Dallas Fuel,Oasis,1
+07/21/22 05:23,07/21/22 05:30,2022: Midseason Madness: Tournament,39158,1,Atlanta Reign,Atlanta Reign,Seoul Dynasty,Oasis,1
+07/21/22 23:07,07/21/22 23:12,2022: Midseason Madness: Tournament,39156,1,Atlanta Reign,Houston Outlaws,Atlanta Reign,Oasis,0
+07/22/22 00:53,07/22/22 00:56,2022: Midseason Madness: Tournament,39147,1,Seoul Infernal,Florida Mayhem,Seoul Infernal,Ilios,0
+07/22/22 03:11,07/22/22 03:20,2022: Midseason Madness: Tournament,39154,1,Los Angeles Gladiators,Hangzhou Spark,Los Angeles Gladiators,Oasis,0
+07/22/22 05:30,07/22/22 05:35,2022: Midseason Madness: Tournament,39140,1,San Francisco Shock,San Francisco Shock,Shanghai Dragons,Oasis,1
+07/22/22 23:08,07/22/22 23:10,2022: Midseason Madness: Tournament,39144,1,Atlanta Reign,Atlanta Reign,Shanghai Dragons,Lijiang Tower,1
+07/23/22 00:53,07/23/22 00:59,2022: Midseason Madness: Tournament,39148,1,Seoul Infernal,Hangzhou Spark,Seoul Infernal,Oasis,0
+07/23/22 03:18,07/23/22 03:23,2022: Midseason Madness: Tournament,39141,1,San Francisco Shock,Los Angeles Gladiators,San Francisco Shock,Ilios,0
+07/23/22 05:21,07/23/22 05:26,2022: Midseason Madness: Tournament,39145,1,Atlanta Reign,Atlanta Reign,Seoul Infernal,Lijiang Tower,1
+07/23/22 23:07,07/23/22 23:11,2022: Midseason Madness: Tournament,39143,1,Los Angeles Gladiators,Los Angeles Gladiators,Atlanta Reign,Ilios,1
+07/24/22 01:06,07/24/22 01:10,2022: Midseason Madness: Tournament,39142,1,Los Angeles Gladiators,Los Angeles Gladiators,San Francisco Shock,Ilios,1
+08/11/22 19:08,08/11/22 19:11,2022: Summer Showdown: Qualifiers,39106,1,Florida Mayhem,Florida Mayhem,London Spitfire,Busan,1
+08/11/22 20:34,08/11/22 20:40,2022: Summer Showdown: Qualifiers,39107,1,New York Excelsior,Houston Outlaws,New York Excelsior,Nepal,0
+08/11/22 22:43,08/11/22 22:46,2022: Summer Showdown: Qualifiers,39108,1,Dallas Fuel,Dallas Fuel,Los Angeles Gladiators,Oasis,1
+08/12/22 19:09,08/12/22 19:12,2022: Summer Showdown: Qualifiers,39109,1,Boston Uprising,Boston Uprising,Atlanta Reign,Busan,1
+08/12/22 20:48,08/12/22 20:52,2022: Summer Showdown: Qualifiers,39110,1,San Francisco Shock,Washington Justice,San Francisco Shock,Nepal,0
+08/12/22 23:05,08/12/22 23:09,2022: Summer Showdown: Qualifiers,39201,1,Toronto Defiant,Toronto Defiant,Vancouver Titans,Nepal,1
+08/13/22 19:08,08/13/22 19:12,2022: Summer Showdown: Qualifiers,39202,1,London Spitfire,London Spitfire,Boston Uprising,Ilios,1
+08/13/22 20:34,08/13/22 20:39,2022: Summer Showdown: Qualifiers,39203,1,Washington Justice,Washington Justice,Vegas Eternal,Busan,1
+08/13/22 21:50,08/13/22 21:55,2022: Summer Showdown: Qualifiers,39204,1,Houston Outlaws,Houston Outlaws,Los Angeles Gladiators,Lijiang Tower,1
+08/14/22 19:08,08/14/22 19:11,2022: Summer Showdown: Qualifiers,39205,1,Vancouver Titans,Vancouver Titans,Vegas Eternal,Oasis,1
+08/14/22 20:18,08/14/22 20:21,2022: Summer Showdown: Qualifiers,39206,1,San Francisco Shock,San Francisco Shock,Florida Mayhem,Ilios,1
+08/14/22 21:44,08/14/22 21:47,2022: Summer Showdown: Qualifiers,39207,1,Dallas Fuel,New York Excelsior,Dallas Fuel,Lijiang Tower,0
+08/14/22 23:23,08/14/22 23:26,2022: Summer Showdown: Qualifiers,39208,1,Toronto Defiant,Atlanta Reign,Toronto Defiant,Oasis,0
+08/19/22 10:10,08/19/22 10:13,2022: Summer Showdown: Qualifiers,39055,1,Shanghai Dragons,Shanghai Dragons,Guangzhou Charge,Nepal,1
+08/19/22 11:26,08/19/22 11:31,2022: Summer Showdown: Qualifiers,39056,1,Seoul Dynasty,Seoul Dynasty,Hangzhou Spark,Ilios,1
+08/19/22 19:07,08/19/22 19:10,2022: Summer Showdown: Qualifiers,39209,1,Vancouver Titans,Vancouver Titans,New York Excelsior,Busan,1
+08/19/22 20:25,08/19/22 20:29,2022: Summer Showdown: Qualifiers,39210,1,San Francisco Shock,San Francisco Shock,Boston Uprising,Lijiang Tower,1
+08/19/22 21:43,08/19/22 21:47,2022: Summer Showdown: Qualifiers,39211,1,Dallas Fuel,Dallas Fuel,Toronto Defiant,Busan,1
+08/20/22 10:06,08/20/22 10:10,2022: Summer Showdown: Qualifiers,39057,1,Seoul Dynasty,Seoul Dynasty,Chengdu Hunters,Ilios,1
+08/20/22 11:15,08/20/22 11:19,2022: Summer Showdown: Qualifiers,39058,1,Shanghai Dragons,Shanghai Dragons,Hangzhou Spark,Lijiang Tower,1
+08/20/22 12:30,08/20/22 12:35,2022: Summer Showdown: Qualifiers,39059,1,Seoul Infernal,Los Angeles Valiant,Seoul Infernal,Oasis,0
+08/20/22 19:09,08/20/22 19:12,2022: Summer Showdown: Qualifiers,39212,1,London Spitfire,London Spitfire,Houston Outlaws,Oasis,1
+08/20/22 20:28,08/20/22 20:33,2022: Summer Showdown: Qualifiers,39213,1,San Francisco Shock,San Francisco Shock,Los Angeles Gladiators,Busan,1
+08/20/22 22:23,08/20/22 22:26,2022: Summer Showdown: Qualifiers,39214,1,Washington Justice,Washington Justice,Florida Mayhem,Lijiang Tower,1
+08/21/22 10:06,08/21/22 10:09,2022: Summer Showdown: Qualifiers,39060,1,Guangzhou Charge,Los Angeles Valiant,Guangzhou Charge,Ilios,0
+08/21/22 11:57,08/21/22 12:00,2022: Summer Showdown: Qualifiers,39241,1,Chengdu Hunters,Chengdu Hunters,Seoul Infernal,Busan,1
+08/21/22 19:07,08/21/22 19:13,2022: Summer Showdown: Qualifiers,39215,1,Dallas Fuel,Dallas Fuel,Boston Uprising,Nepal,1
+08/21/22 20:54,08/21/22 20:59,2022: Summer Showdown: Qualifiers,39216,1,Atlanta Reign,Atlanta Reign,Vegas Eternal,Ilios,1
+08/21/22 22:08,08/21/22 22:14,2022: Summer Showdown: Qualifiers,39217,1,Toronto Defiant,Toronto Defiant,Los Angeles Gladiators,Ilios,1
+08/26/22 10:07,08/26/22 10:11,2022: Summer Showdown: Qualifiers,39242,1,Chengdu Hunters,Chengdu Hunters,Hangzhou Spark,Nepal,1
+08/26/22 11:36,08/26/22 11:39,2022: Summer Showdown: Qualifiers,39243,1,Seoul Dynasty,Seoul Dynasty,Los Angeles Valiant,Nepal,1
+08/26/22 19:11,08/26/22 19:22,2022: Summer Showdown: Qualifiers,39218,1,Atlanta Reign,London Spitfire,Atlanta Reign,Nepal,0
+08/26/22 21:09,08/26/22 21:14,2022: Summer Showdown: Qualifiers,39219,1,San Francisco Shock,San Francisco Shock,New York Excelsior,Oasis,1
+08/26/22 22:28,08/26/22 22:33,2022: Summer Showdown: Qualifiers,39220,1,Vancouver Titans,Washington Justice,Vancouver Titans,Ilios,0
+08/27/22 10:06,08/27/22 10:11,2022: Summer Showdown: Qualifiers,39244,1,Seoul Dynasty,Seoul Dynasty,Guangzhou Charge,Busan,1
+08/27/22 11:21,08/27/22 11:24,2022: Summer Showdown: Qualifiers,39245,1,Hangzhou Spark,Hangzhou Spark,Los Angeles Valiant,Busan,1
+08/27/22 13:02,08/27/22 13:07,2022: Summer Showdown: Qualifiers,39246,1,Shanghai Dragons,Seoul Infernal,Shanghai Dragons,Ilios,0
+08/27/22 19:08,08/27/22 19:12,2022: Summer Showdown: Qualifiers,39221,1,Toronto Defiant,Toronto Defiant,Boston Uprising,Oasis,1
+08/27/22 20:35,08/27/22 20:39,2022: Summer Showdown: Qualifiers,39222,1,Los Angeles Gladiators,Los Angeles Gladiators,Vegas Eternal,Nepal,1
+08/27/22 21:53,08/27/22 21:57,2022: Summer Showdown: Qualifiers,39223,1,Houston Outlaws,Houston Outlaws,Vancouver Titans,Busan,1
+08/28/22 10:07,08/28/22 10:11,2022: Summer Showdown: Qualifiers,39247,1,Guangzhou Charge,Seoul Infernal,Guangzhou Charge,Nepal,0
+08/28/22 12:12,08/28/22 12:16,2022: Summer Showdown: Qualifiers,39248,1,Shanghai Dragons,Shanghai Dragons,Chengdu Hunters,Oasis,1
+08/28/22 19:09,08/28/22 19:13,2022: Summer Showdown: Qualifiers,39224,1,Washington Justice,London Spitfire,Washington Justice,Oasis,0
+08/28/22 21:25,08/28/22 21:28,2022: Summer Showdown: Qualifiers,39225,1,Houston Outlaws,Houston Outlaws,Atlanta Reign,Ilios,1
+08/28/22 23:30,08/28/22 23:33,2022: Summer Showdown: Qualifiers,39226,1,Dallas Fuel,Dallas Fuel,Florida Mayhem,Nepal,1
+09/02/22 10:08,09/02/22 10:12,2022: Summer Showdown: Qualifiers,39249,1,Guangzhou Charge,Guangzhou Charge,Chengdu Hunters,Lijiang Tower,1
+09/02/22 11:41,09/02/22 11:45,2022: Summer Showdown: Qualifiers,39250,1,Shanghai Dragons,Shanghai Dragons,Los Angeles Valiant,Busan,1
+09/02/22 19:08,09/02/22 19:13,2022: Summer Showdown: Qualifiers,39227,1,Los Angeles Gladiators,Los Angeles Gladiators,Atlanta Reign,Lijiang Tower,1
+09/02/22 20:21,09/02/22 20:25,2022: Summer Showdown: Qualifiers,39228,1,New York Excelsior,New York Excelsior,Vegas Eternal,Ilios,1
+09/02/22 21:53,09/02/22 21:58,2022: Summer Showdown: Qualifiers,39229,1,Dallas Fuel,Dallas Fuel,San Francisco Shock,Ilios,1
+09/03/22 10:10,09/03/22 10:14,2022: Summer Showdown: Qualifiers,39251,1,Guangzhou Charge,Guangzhou Charge,Hangzhou Spark,Oasis,1
+09/03/22 11:36,09/03/22 11:39,2022: Summer Showdown: Qualifiers,39252,1,Los Angeles Valiant,Chengdu Hunters,Los Angeles Valiant,Lijiang Tower,0
+09/03/22 13:41,09/03/22 13:47,2022: Summer Showdown: Qualifiers,39253,1,Seoul Dynasty,Seoul Infernal,Seoul Dynasty,Oasis,0
+09/03/22 19:08,09/03/22 19:12,2022: Summer Showdown: Qualifiers,39230,1,Florida Mayhem,Florida Mayhem,Vegas Eternal,Lijiang Tower,1
+09/03/22 20:14,09/03/22 20:20,2022: Summer Showdown: Qualifiers,39231,1,Houston Outlaws,Houston Outlaws,Washington Justice,Busan,1
+09/03/22 21:26,09/03/22 21:32,2022: Summer Showdown: Qualifiers,39232,1,Boston Uprising,Vancouver Titans,Boston Uprising,Lijiang Tower,0
+09/04/22 10:06,09/04/22 10:14,2022: Summer Showdown: Qualifiers,39254,1,Seoul Infernal,Seoul Infernal,Hangzhou Spark,Lijiang Tower,1
+09/04/22 11:31,09/04/22 11:35,2022: Summer Showdown: Qualifiers,39255,1,Shanghai Dragons,Shanghai Dragons,Seoul Dynasty,Lijiang Tower,1
+09/04/22 19:09,09/04/22 19:14,2022: Summer Showdown: Qualifiers,39233,1,London Spitfire,Toronto Defiant,London Spitfire,Lijiang Tower,0
+09/04/22 20:59,09/04/22 21:04,2022: Summer Showdown: Qualifiers,39234,1,Florida Mayhem,Florida Mayhem,New York Excelsior,Oasis,1
+09/08/22 18:07,09/08/22 18:12,2022: Summer Showdown: Tournament,39261,1,Dallas Fuel,Washington Justice,Dallas Fuel,Ilios,0
+09/08/22 20:16,09/08/22 20:21,2022: Summer Showdown: Tournament,39262,1,London Spitfire,Toronto Defiant,London Spitfire,Ilios,0
+09/08/22 22:00,09/08/22 22:06,2022: Summer Showdown: Tournament,39263,1,San Francisco Shock,San Francisco Shock,Vancouver Titans,Lijiang Tower,1
+09/08/22 23:39,09/08/22 23:43,2022: Summer Showdown: Tournament,39264,1,Houston Outlaws,Houston Outlaws,Florida Mayhem,Busan,1
+09/09/22 10:12,09/09/22 10:16,2022: Summer Showdown: Tournament,39281,1,Shanghai Dragons,Shanghai Dragons,Guangzhou Charge,Oasis,1
+09/09/22 11:41,09/09/22 11:44,2022: Summer Showdown: Tournament,39282,1,Seoul Dynasty,Seoul Dynasty,Seoul Infernal,Nepal,1
+09/09/22 18:11,09/09/22 18:14,2022: Summer Showdown: Tournament,39265,1,Dallas Fuel,Dallas Fuel,London Spitfire,Lijiang Tower,1
+09/09/22 19:50,09/09/22 19:53,2022: Summer Showdown: Tournament,39273,1,San Francisco Shock,San Francisco Shock,Houston Outlaws,Lijiang Tower,1
+09/09/22 21:33,09/09/22 21:36,2022: Summer Showdown: Tournament,39274,1,Florida Mayhem,Florida Mayhem,Vancouver Titans,Lijiang Tower,1
+09/09/22 23:03,09/09/22 23:08,2022: Summer Showdown: Tournament,39271,1,Toronto Defiant,Toronto Defiant,Washington Justice,Lijiang Tower,1
+09/10/22 10:10,09/10/22 10:13,2022: Summer Showdown: Tournament,39286,1,Seoul Infernal,Seoul Infernal,Guangzhou Charge,Lijiang Tower,1
+09/10/22 18:10,09/10/22 18:15,2022: Summer Showdown: Tournament,39272,1,Toronto Defiant,Toronto Defiant,Houston Outlaws,Busan,1
+09/10/22 19:59,09/10/22 20:04,2022: Summer Showdown: Tournament,39269,1,Florida Mayhem,London Spitfire,Florida Mayhem,Oasis,0
+09/10/22 22:14,09/10/22 22:18,2022: Summer Showdown: Tournament,39266,1,Dallas Fuel,Dallas Fuel,San Francisco Shock,Lijiang Tower,1
+09/10/22 23:47,09/10/22 23:51,2022: Summer Showdown: Tournament,39270,1,Toronto Defiant,Toronto Defiant,Florida Mayhem,Lijiang Tower,1
+09/11/22 10:07,09/11/22 10:10,2022: Summer Showdown: Tournament,39285,1,Seoul Dynasty,Seoul Infernal,Seoul Dynasty,Nepal,0
+09/11/22 12:07,09/11/22 12:11,2022: Summer Showdown: Tournament,39284,1,Shanghai Dragons,Seoul Dynasty,Shanghai Dragons,Oasis,0
+09/11/22 18:12,09/11/22 18:16,2022: Summer Showdown: Tournament,39268,1,San Francisco Shock,Toronto Defiant,San Francisco Shock,Nepal,0
+09/11/22 20:11,09/11/22 20:16,2022: Summer Showdown: Tournament,39267,1,Dallas Fuel,Dallas Fuel,San Francisco Shock,Lijiang Tower,1
+09/22/22 19:06,09/22/22 19:11,2022: Countdown Cup: Qualifiers,39291,1,Boston Uprising,Houston Outlaws,Boston Uprising,Oasis,0
+09/22/22 20:42,09/22/22 20:47,2022: Countdown Cup: Qualifiers,39292,1,Dallas Fuel,Dallas Fuel,Washington Justice,Lijiang Tower,1
+09/22/22 22:16,09/22/22 22:21,2022: Countdown Cup: Qualifiers,39293,1,Atlanta Reign,Atlanta Reign,Toronto Defiant,Nepal,1
+09/23/22 10:11,09/23/22 10:15,2022: Countdown Cup: Qualifiers,39330,1,Chengdu Hunters,Chengdu Hunters,Hangzhou Spark,Nepal,1
+09/23/22 11:43,09/23/22 11:49,2022: Countdown Cup: Qualifiers,39331,1,Seoul Dynasty,Seoul Dynasty,Los Angeles Valiant,Lijiang Tower,1
+09/23/22 19:09,09/23/22 19:15,2022: Countdown Cup: Qualifiers,39294,1,London Spitfire,London Spitfire,Vegas Eternal,Ilios,1
+09/23/22 20:56,09/23/22 21:01,2022: Countdown Cup: Qualifiers,39295,1,Los Angeles Gladiators,Los Angeles Gladiators,Florida Mayhem,Lijiang Tower,1
+09/23/22 22:47,09/23/22 22:53,2022: Countdown Cup: Qualifiers,39296,1,New York Excelsior,Toronto Defiant,New York Excelsior,Oasis,0
+09/24/22 10:06,09/24/22 10:11,2022: Countdown Cup: Qualifiers,39332,1,Seoul Dynasty,Seoul Dynasty,Shanghai Dragons,Ilios,1
+09/24/22 11:19,09/24/22 11:25,2022: Countdown Cup: Qualifiers,39333,1,Chengdu Hunters,Chengdu Hunters,Guangzhou Charge,Lijiang Tower,1
+09/24/22 13:30,09/24/22 13:36,2022: Countdown Cup: Qualifiers,39334,1,Los Angeles Valiant,Los Angeles Valiant,Seoul Infernal,Oasis,1
+09/24/22 19:09,09/24/22 19:13,2022: Countdown Cup: Qualifiers,39297,1,London Spitfire,Vancouver Titans,London Spitfire,Busan,0
+09/24/22 20:53,09/24/22 20:56,2022: Countdown Cup: Qualifiers,39298,1,Washington Justice,Washington Justice,San Francisco Shock,Oasis,1
+09/24/22 22:51,09/24/22 22:56,2022: Countdown Cup: Qualifiers,39299,1,Boston Uprising,Boston Uprising,Florida Mayhem,Nepal,1
+09/25/22 10:06,09/25/22 10:10,2022: Countdown Cup: Qualifiers,39335,1,Guangzhou Charge,Guangzhou Charge,Shanghai Dragons,Nepal,1
+09/25/22 12:04,09/25/22 12:09,2022: Countdown Cup: Qualifiers,39336,1,Seoul Infernal,Hangzhou Spark,Seoul Infernal,Nepal,0
+09/25/22 19:09,09/25/22 19:13,2022: Countdown Cup: Qualifiers,39300,1,Atlanta Reign,Atlanta Reign,New York Excelsior,Ilios,1
+09/25/22 20:30,09/25/22 20:35,2022: Countdown Cup: Qualifiers,39301,1,Dallas Fuel,Dallas Fuel,Vegas Eternal,Nepal,1
+09/25/22 21:39,09/25/22 21:43,2022: Countdown Cup: Qualifiers,39302,1,Houston Outlaws,Houston Outlaws,San Francisco Shock,Busan,1
+09/25/22 23:20,09/25/22 23:25,2022: Countdown Cup: Qualifiers,39303,1,Los Angeles Gladiators,Los Angeles Gladiators,Vancouver Titans,Nepal,1
+09/30/22 10:08,09/30/22 10:13,2022: Countdown Cup: Qualifiers,39337,1,Seoul Dynasty,Chengdu Hunters,Seoul Dynasty,Busan,0
+09/30/22 11:47,09/30/22 11:51,2022: Countdown Cup: Qualifiers,39338,1,Seoul Infernal,Seoul Infernal,Shanghai Dragons,Busan,1
+09/30/22 19:08,09/30/22 19:13,2022: Countdown Cup: Qualifiers,39304,1,Los Angeles Gladiators,Los Angeles Gladiators,London Spitfire,Oasis,1
+09/30/22 20:37,09/30/22 20:42,2022: Countdown Cup: Qualifiers,39305,1,Dallas Fuel,Dallas Fuel,Vancouver Titans,Ilios,1
+09/30/22 22:06,09/30/22 22:11,2022: Countdown Cup: Qualifiers,39306,1,Toronto Defiant,Toronto Defiant,San Francisco Shock,Busan,1
+10/01/22 10:08,10/01/22 10:13,2022: Countdown Cup: Qualifiers,39339,1,Shanghai Dragons,Hangzhou Spark,Shanghai Dragons,Lijiang Tower,0
+10/01/22 11:57,10/01/22 12:07,2022: Countdown Cup: Qualifiers,39340,1,Los Angeles Valiant,Chengdu Hunters,Los Angeles Valiant,Nepal,0
+10/01/22 14:08,10/01/22 14:11,2022: Countdown Cup: Qualifiers,39341,1,Seoul Dynasty,Seoul Dynasty,Guangzhou Charge,Oasis,1
+10/01/22 19:09,10/01/22 19:15,2022: Countdown Cup: Qualifiers,39307,1,Dallas Fuel,Dallas Fuel,London Spitfire,Lijiang Tower,1
+10/01/22 20:44,10/01/22 20:48,2022: Countdown Cup: Qualifiers,39308,1,Washington Justice,New York Excelsior,Washington Justice,Nepal,0
+10/01/22 22:27,10/01/22 22:30,2022: Countdown Cup: Qualifiers,39309,1,San Francisco Shock,Atlanta Reign,San Francisco Shock,Lijiang Tower,0
+10/02/22 10:09,10/02/22 10:14,2022: Countdown Cup: Qualifiers,39342,1,Guangzhou Charge,Seoul Infernal,Guangzhou Charge,Lijiang Tower,0
+10/02/22 12:10,10/02/22 12:14,2022: Countdown Cup: Qualifiers,39343,1,Los Angeles Valiant,Los Angeles Valiant,Hangzhou Spark,Ilios,1
+10/02/22 19:08,10/02/22 19:13,2022: Countdown Cup: Qualifiers,39310,1,Los Angeles Gladiators,New York Excelsior,Los Angeles Gladiators,Busan,0
+10/02/22 21:24,10/02/22 21:27,2022: Countdown Cup: Qualifiers,39311,1,Atlanta Reign,Atlanta Reign,Washington Justice,Oasis,1
+10/02/22 22:39,10/02/22 22:44,2022: Countdown Cup: Qualifiers,39312,1,Vancouver Titans,Vancouver Titans,Toronto Defiant,Lijiang Tower,1
+10/07/22 10:07,10/07/22 10:12,2022: Countdown Cup: Qualifiers,39344,1,Hangzhou Spark,Hangzhou Spark,Seoul Dynasty,Oasis,1
+10/07/22 12:03,10/07/22 12:07,2022: Countdown Cup: Qualifiers,39345,1,Guangzhou Charge,Los Angeles Valiant,Guangzhou Charge,Ilios,0
+10/07/22 18:09,10/07/22 18:14,2022: Countdown Cup: Qualifiers,39315,1,Houston Outlaws,Houston Outlaws,Vegas Eternal,Lijiang Tower,1
+10/07/22 19:41,10/07/22 19:46,2022: Countdown Cup: Qualifiers,39314,1,Washington Justice,Boston Uprising,Washington Justice,Busan,0
+10/07/22 21:48,10/07/22 21:51,2022: Countdown Cup: Qualifiers,39313,1,Florida Mayhem,Vancouver Titans,Florida Mayhem,Busan,0
+10/08/22 10:07,10/08/22 10:11,2022: Countdown Cup: Qualifiers,39346,1,Guangzhou Charge,Guangzhou Charge,Hangzhou Spark,Busan,1
+10/08/22 11:27,10/08/22 11:32,2022: Countdown Cup: Qualifiers,39347,1,Shanghai Dragons,Shanghai Dragons,Los Angeles Valiant,Busan,1
+10/08/22 12:33,10/08/22 12:36,2022: Countdown Cup: Qualifiers,39348,1,Seoul Infernal,Seoul Infernal,Chengdu Hunters,Ilios,1
+10/08/22 19:10,10/08/22 19:13,2022: Countdown Cup: Qualifiers,39316,1,Atlanta Reign,Florida Mayhem,Atlanta Reign,Oasis,0
+10/08/22 21:14,10/08/22 21:18,2022: Countdown Cup: Qualifiers,39317,1,Los Angeles Gladiators,Washington Justice,Los Angeles Gladiators,Ilios,0
+10/08/22 23:06,10/08/22 23:12,2022: Countdown Cup: Qualifiers,39318,1,Houston Outlaws,Houston Outlaws,Dallas Fuel,Oasis,1
+10/09/22 10:06,10/09/22 10:09,2022: Countdown Cup: Qualifiers,39349,1,Shanghai Dragons,Shanghai Dragons,Chengdu Hunters,Oasis,1
+10/09/22 11:43,10/09/22 11:48,2022: Countdown Cup: Qualifiers,39350,1,Seoul Dynasty,Seoul Dynasty,Seoul Infernal,Nepal,1
+10/09/22 19:08,10/09/22 19:12,2022: Countdown Cup: Qualifiers,39319,1,Vancouver Titans,Vancouver Titans,Vegas Eternal,Oasis,1
+10/09/22 20:51,10/09/22 20:56,2022: Countdown Cup: Qualifiers,39320,1,Dallas Fuel,Atlanta Reign,Dallas Fuel,Busan,0
+10/09/22 22:32,10/09/22 22:35,2022: Countdown Cup: Qualifiers,39321,1,Los Angeles Gladiators,Los Angeles Gladiators,Boston Uprising,Ilios,1
+10/14/22 19:08,10/14/22 19:13,2022: Countdown Cup: Qualifiers,39322,1,London Spitfire,London Spitfire,New York Excelsior,Busan,1
+10/14/22 20:37,10/14/22 20:41,2022: Countdown Cup: Qualifiers,39323,1,San Francisco Shock,San Francisco Shock,Vegas Eternal,Ilios,1
+10/14/22 21:52,10/14/22 21:55,2022: Countdown Cup: Qualifiers,39324,1,Florida Mayhem,Florida Mayhem,Toronto Defiant,Ilios,1
+10/15/22 10:07,10/15/22 10:10,2022: Postseason,39391,1,Chengdu Hunters,Guangzhou Charge,Chengdu Hunters,Busan,0
+10/15/22 12:18,10/15/22 12:31,2022: Postseason,39392,1,Hangzhou Spark,Hangzhou Spark,Chengdu Hunters,Oasis,1
+10/15/22 19:09,10/15/22 19:12,2022: Countdown Cup: Qualifiers,39325,1,San Francisco Shock,London Spitfire,San Francisco Shock,Nepal,0
+10/15/22 21:13,10/15/22 21:16,2022: Countdown Cup: Qualifiers,39326,1,Boston Uprising,Boston Uprising,New York Excelsior,Lijiang Tower,1
+10/15/22 22:45,10/15/22 22:49,2022: Countdown Cup: Qualifiers,39327,1,Florida Mayhem,Houston Outlaws,Florida Mayhem,Nepal,0
+10/16/22 19:08,10/16/22 19:12,2022: Countdown Cup: Qualifiers,39328,1,Boston Uprising,Vegas Eternal,Boston Uprising,Busan,0
+10/16/22 20:37,10/16/22 20:42,2022: Countdown Cup: Qualifiers,39329,1,Toronto Defiant,Houston Outlaws,Toronto Defiant,Ilios,0
+10/21/22 19:08,10/21/22 19:11,2022: Postseason,39381,1,Florida Mayhem,Florida Mayhem,Boston Uprising,Busan,1
+10/21/22 20:11,10/21/22 20:16,2022: Postseason,39382,1,Toronto Defiant,Toronto Defiant,Washington Justice,Ilios,1
+10/22/22 19:08,10/22/22 19:13,2022: Postseason,39383,1,Florida Mayhem,Toronto Defiant,Florida Mayhem,Oasis,0
+10/22/22 20:46,10/22/22 20:50,2022: Postseason,39385,1,Boston Uprising,Boston Uprising,Washington Justice,Ilios,1
+10/22/22 22:26,10/22/22 22:29,2022: Postseason,39384,1,Toronto Defiant,Toronto Defiant,Boston Uprising,Ilios,1
+10/30/22 21:39,10/30/22 21:45,2022: Postseason,39351,1,London Spitfire,London Spitfire,Seoul Infernal,Lijiang Tower,1
+10/30/22 23:06,10/30/22 23:11,2022: Postseason,39353,1,Hangzhou Spark,Hangzhou Spark,Shanghai Dragons,Oasis,1
+10/31/22 00:42,10/31/22 00:47,2022: Postseason,39355,1,Florida Mayhem,Florida Mayhem,Atlanta Reign,Lijiang Tower,1
+10/31/22 02:23,10/31/22 02:28,2022: Postseason,39357,1,Houston Outlaws,Houston Outlaws,Toronto Defiant,Busan,1
+10/31/22 21:41,10/31/22 21:45,2022: Postseason,39359,1,Dallas Fuel,Dallas Fuel,Hangzhou Spark,Lijiang Tower,1
+10/31/22 23:43,10/31/22 23:47,2022: Postseason,39371,1,Seoul Dynasty,Seoul Dynasty,Florida Mayhem,Ilios,1
+11/01/22 01:16,11/01/22 01:20,2022: Postseason,39373,1,Houston Outlaws,Houston Outlaws,San Francisco Shock,Ilios,1
+11/01/22 03:46,11/01/22 03:52,2022: Postseason,39379,1,London Spitfire,Los Angeles Gladiators,London Spitfire,Lijiang Tower,0
+11/01/22 21:40,11/01/22 21:44,2022: Postseason,39370,1,Los Angeles Gladiators,Seoul Infernal,Los Angeles Gladiators,Oasis,0
+11/01/22 23:33,11/01/22 23:37,2022: Postseason,39366,1,San Francisco Shock,San Francisco Shock,Shanghai Dragons,Lijiang Tower,1
+11/02/22 01:26,11/02/22 01:31,2022: Postseason,39378,1,Florida Mayhem,Atlanta Reign,Florida Mayhem,Ilios,0
+11/02/22 03:01,11/02/22 03:06,2022: Postseason,39375,1,Hangzhou Spark,Hangzhou Spark,Toronto Defiant,Oasis,1
+11/02/22 21:39,11/02/22 21:43,2022: Postseason,39367,1,San Francisco Shock,San Francisco Shock,Los Angeles Gladiators,Oasis,1
+11/02/22 23:34,11/02/22 23:39,2022: Postseason,39376,1,Hangzhou Spark,Florida Mayhem,Hangzhou Spark,Busan,0
+11/03/22 01:31,11/03/22 01:35,2022: Postseason,39360,1,Dallas Fuel,Dallas Fuel,Seoul Dynasty,Nepal,1
+11/03/22 02:58,11/03/22 03:03,2022: Postseason,39374,1,Houston Outlaws,Houston Outlaws,London Spitfire,Ilios,1
+11/03/22 21:41,11/03/22 21:44,2022: Postseason,39368,1,San Francisco Shock,San Francisco Shock,Seoul Dynasty,Lijiang Tower,1
+11/03/22 23:18,11/03/22 23:22,2022: Postseason,39364,1,Hangzhou Spark,Hangzhou Spark,London Spitfire,Lijiang Tower,1
+11/04/22 01:25,11/04/22 01:29,2022: Postseason,39361,1,Dallas Fuel,Houston Outlaws,Dallas Fuel,Nepal,0
+11/04/22 03:10,11/04/22 03:14,2022: Postseason,39365,1,San Francisco Shock,San Francisco Shock,Hangzhou Spark,Oasis,1
+11/05/22 00:10,11/05/22 00:15,2022: Postseason,39363,1,San Francisco Shock,San Francisco Shock,Houston Outlaws,Nepal,1
+11/05/22 02:01,11/05/22 02:05,2022: Postseason,39362,1,Dallas Fuel,Dallas Fuel,San Francisco Shock,Lijiang Tower,1
